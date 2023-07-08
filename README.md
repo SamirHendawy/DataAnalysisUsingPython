@@ -3,7 +3,11 @@
 ##### Data analysis using python libraries
 > - pandas
 > - numpy
+> - seaborn
+> - matplotlib
 > - plotly
+> - sklearn
+> - datasist
 ----------------------------
 [E-commerce](https://github.com/SamirHendawy/DataAnalysisUsingPython/blob/main/Ecommerce%20Data%20analysis%20.ipynb)
 
@@ -11,3 +15,4 @@
 for example :
 - What Month/s contributes to high OrderValue?
 - Why April and December suffer from low sales?
+----------------------------
